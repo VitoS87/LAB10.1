@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LAB10.1\LAB10.1\bin\Debug\net8.0\LAB10.1.exe
+C:\Users\User\source\repos\LAB10.1\LAB10.1\bin\Debug\net8.0\LAB10.1.deps.json
+C:\Users\User\source\repos\LAB10.1\LAB10.1\bin\Debug\net8.0\LAB10.1.runtimeconfig.json
+C:\Users\User\source\repos\LAB10.1\LAB10.1\bin\Debug\net8.0\LAB10.1.dll
+C:\Users\User\source\repos\LAB10.1\LAB10.1\bin\Debug\net8.0\LAB10.1.pdb
+C:\Users\User\source\repos\LAB10.1\LAB10.1\obj\Debug\net8.0\LAB10.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LAB10.1\LAB10.1\obj\Debug\net8.0\LAB10.1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LAB10.1\LAB10.1\obj\Debug\net8.0\LAB10.1.AssemblyInfo.cs
+C:\Users\User\source\repos\LAB10.1\LAB10.1\obj\Debug\net8.0\LAB10.1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LAB10.1\LAB10.1\obj\Debug\net8.0\LAB10.1.dll
+C:\Users\User\source\repos\LAB10.1\LAB10.1\obj\Debug\net8.0\refint\LAB10.1.dll
+C:\Users\User\source\repos\LAB10.1\LAB10.1\obj\Debug\net8.0\LAB10.1.pdb
+C:\Users\User\source\repos\LAB10.1\LAB10.1\obj\Debug\net8.0\LAB10.1.genruntimeconfig.cache
+C:\Users\User\source\repos\LAB10.1\LAB10.1\obj\Debug\net8.0\ref\LAB10.1.dll
